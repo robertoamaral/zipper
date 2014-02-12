@@ -4,3 +4,4 @@ for line in sys.stdin:
 	print len(temp)
 done
 ls -a
+#hello
